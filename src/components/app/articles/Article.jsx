@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types'
 
 export default function Article({title, author, description, image}){
     return (
@@ -11,4 +12,11 @@ export default function Article({title, author, description, image}){
             </div>
         </figure>
     )
+}
+
+Article.prototype = {
+    title: PropTypes.string.isRequired,
+    author: PropTypes.string.isRequired,
+    description: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
 }
