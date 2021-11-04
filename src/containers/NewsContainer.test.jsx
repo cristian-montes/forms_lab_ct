@@ -1,4 +1,4 @@
-import{ render, screen, wairFor } from '@testing-library/react';
+import{ render, screen, waitFor } from '@testing-library/react';
 import React from 'react';
  import { MemoryRouter } from 'react-router';
 import userEvent from '@testing-library/user-event'
@@ -14,6 +14,20 @@ describe('Shows News', () => {
         const ul = await screen.findByRole('list', {name: 'articles'})
         expect(ul).toMatchSnapshot();
 
+        const nameInput = await screen.findByLabelText('News Name');
+        userEvent.type(nameInput, 'apple');
+
+        const submitButton = await screen.findByRole('button', {name: 'get-news'})
+
+        userEvent.click(submitButton);
+
+        return waitFor(() => {
+            const news = screen.getAllByText('apple', {
+                exact: false,
+            });
+
+            expect(news).toHaveLength(10)
+        })
     });
 
 });
