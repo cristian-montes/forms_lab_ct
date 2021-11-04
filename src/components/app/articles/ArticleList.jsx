@@ -13,5 +13,10 @@ export default function ArticleList( { articles }){
             />
         </li>
     ));
-    return <ul aria-label='articles'>{articleList}</ul>
+    return (
+        <div>
+            <ul aria-label='articles'>{articleList}</ul>
+        </div>
+    )
+
 }
