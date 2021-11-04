@@ -34,7 +34,7 @@ export default class NewsContainer extends Component {
         const newsTittle = newsName.toUpperCase();
         return (
             <div>
-                {loading ? (<h1>loading...</h1>)
+                {loading ? (<h1>Loading...</h1>)
                 :(
                     <div>
                         <h1> {newsTittle} NEWS</h1>
