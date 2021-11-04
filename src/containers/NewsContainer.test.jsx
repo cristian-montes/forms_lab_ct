@@ -11,8 +11,8 @@ describe('Shows News', () => {
         render(<MemoryRouter><NewsContainer/></MemoryRouter>);
         screen.getByText('Loading...')
 
-    //     const ul = await screen.findByRole('list', {name: 'articles'})
-    //     expect(ul).toMatchSnapshot();
+        const ul = await screen.findByRole('list', {name: 'articles'})
+        expect(ul).toMatchSnapshot();
 
     });
 

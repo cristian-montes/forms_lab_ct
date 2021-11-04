@@ -1,0 +1,456 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows News shoudl display a list of news fron apple 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <figure>
+      <img
+        alt="Jake Peterson"
+        height="200"
+        src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6cc448d0fcf1a443f405b7b97f969d2a.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Here Are All the Ways to 'Ping' a Lost iPhone
+        </p>
+        <p>
+          Losing your iPhone is no fun. Immediately, thoughts race through your head: “Did I leave it at the restaurant?” “Did somebody steal it?” “What am I supposed to do without Twitter?” Don’t panic! Instead, close your eyes, take a deep breath...and ping it.Read m…
+        </p>
+        <p>
+           Author: 
+          Jake Peterson
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Sheena Vasani"
+        height="200"
+        src="https://cdn.vox-cdn.com/thumbor/xw6Rkp70fbwKCDsVQRF3F5S-1KE=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977635/Early_Black_Friday_Deals.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          The best early Black Friday deals you can get right now
+        </p>
+        <p>
+          Black Friday officially lands on November 26th, but many of the best online deals have already begun. We’re tracking them all here, where you’ll find big discounts on Sony wireless noise-canceling headphones, iPads, and more.
+        </p>
+        <p>
+           Author: 
+          Sheena Vasani
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Kellen Browning"
+        height="200"
+        src="https://static01.nyt.com/images/2021/11/02/business/02apple2/02apple2-facebookJumbo.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Another Apple Worker Says the Company Retaliated Against Her
+        </p>
+        <p>
+          One of the leaders of an activist movement at Apple took her complaint to a federal agency, marking an escalation of a conflict between Apple and some of its workers.
+        </p>
+        <p>
+           Author: 
+          Kellen Browning
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Scharon Harding"
+        height="200"
+        src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1169795042-760x380.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Chromebooks on “massive downturn” from pandemic-fueled heights
+        </p>
+        <p>
+          Tablet sales also down, but Apple and Lenovo are holding steady.
+        </p>
+        <p>
+           Author: 
+          Scharon Harding
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Ron Amadeo"
+        height="200"
+        src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/GooglePixel_6-1_CROPPED-760x380.jpeg"
+        width="200"
+      />
+      <div>
+        <p>
+          Pixel 6 review: Google Hardware finally lives up to its potential
+        </p>
+        <p>
+          Google finally built a great flagship smartphone.
+        </p>
+        <p>
+           Author: 
+          Ron Amadeo
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        height="200"
+        src="https://www.reuters.com/resizer/hOyLByHKIG1GbDuzsVu8YmQBmYc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4YHW6BSRCJLPDL3BF5YRUYMSDY.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Fired Apple employee files complaint with U.S. labor agency - Reuters
+        </p>
+        <p>
+          An Apple employee who was &lt;a href="https://www.reuters.com/technology/apple-worker-says-she-was-fired-after-leading-movement-against-harassment-2021-10-15" target="_blank"&gt;fired&lt;/a&gt; last month after leading fellow workers in publicly sharing instances of what…
+        </p>
+        <p>
+           Author: 
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Reuters Editorial"
+        height="200"
+        src="https://static.reuters.com/resources/r/?d=20211102&i=OVF1WUR2J&r=OVF1WUR2J&t=2"
+        width="200"
+      />
+      <div>
+        <p>
+          Apple cuts iPad output to save chips: Nikkei - Reuters.com
+        </p>
+        <p>
+          Apple is cutting output of iPads to save chips for its iPhones, according to the Nikkei newspaper. Julian Satterthwaite reports.
+        </p>
+        <p>
+           Author: 
+          Reuters Editorial
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        height="200"
+        src="https://www.reuters.com/resizer/hqu266fOQgBSAr0MgobWyEJNtnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C376LQOY4VPVNIWEBS542HDZ74.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Apple's Gibson Dunn team contests subpoena in antitrust case - Reuters
+        </p>
+        <p>
+          Apple Inc's lawyers at Gibson, Dunn & Crutcher have asked a California federal judge to toss a subpoena for live testimony from a company executive at a hearing this week in an antitrust lawsuit against the tech giant over a coronavirus-related app.
+        </p>
+        <p>
+           Author: 
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        height="200"
+        src="https://www.reuters.com/resizer/WsyotCMgGPxbHlMa6zYONygIpDo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YWDHCY63BBPZTHL66QZHU5EXGI.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Microsoft rolls out new tech to connect its cloud to rivals - Reuters
+        </p>
+        <p>
+          Microsoft Corp &lt;a href="https://www.reuters.com/companies/MSFT.O" target="_blank"&gt;(MSFT.O)&lt;/a&gt; on Tuesday announced a new round of technologies aimed at making its cloud computing services work in data centers it does not own - including the cloud data center…
+        </p>
+        <p>
+           Author: 
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        height="200"
+        src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=55"
+        width="200"
+      />
+      <div>
+        <p>
+          'Transplant' Producer Tara Woodbury Appointed as Netflix's First Executive in Canada - Global Bulletin - Reuters
+        </p>
+        <p>
+          'Transplant' Producer Tara Woodbury Appointed as Netflix's First Executive in Canada - Global Bulletin  Reuters
+        </p>
+        <p>
+           Author: 
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Babu Mohan"
+        height="200"
+        src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/garmin-venu-2-5.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Garmin is reportedly working on a new Galaxy Watch 4 Classic challenger
+        </p>
+        <p>
+          It isn't clear if the Venu 2 Plus will arrive before the end of the year.
+
+
+
+What you need to know
+
+
+A new rumor claims Garmin will soon launch a new smartwatch called the Venu 2 Plus.
+The "Plus" version is tipped to add a third physical button for microphone…
+        </p>
+        <p>
+           Author: 
+          Babu Mohan
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Nicholas Sutrich"
+        height="200"
+        src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/11/pixel-6-fingerprint-scanner.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          The Pixel 6 fingerprint scanner calibration tool doesn't do what you think
+        </p>
+        <p>
+          But you'll definitely need it if you ever have to replace your screen.
+
+
+
+What you need to know
+
+
+Google has released a fingerprint scanner calibration tool for resetting the fingerprint scanner security after a screen replacement.
+Users only need to run this…
+        </p>
+        <p>
+           Author: 
+          Nicholas Sutrich
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Kalyeena Makortoff Banking correspondent"
+        height="200"
+        src="https://i.guim.co.uk/img/media/997f460521599135373430e7ca4ca8e3cbe2a1ec/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea3d9a4b6e1abbfe368448e5c6d79f2f"
+        width="200"
+      />
+      <div>
+        <p>
+          Banks ‘being let off hook by weak climate regulation’
+        </p>
+        <p>
+          Exclusive: campaigners say lack of penalties for dirty assets from Bank of England gives industry little incentive to changeThe Bank of England is facing criticism over the way it is conducting its first climate stress tests, with politicians and campaigners …
+        </p>
+        <p>
+           Author: 
+          Kalyeena Makortoff Banking correspondent
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Carrie Mihalcik"
+        height="200"
+        src="https://www.cnet.com/a/img/0fu2d8BDZbOrehQ-CmtOB2tn1c0=/1200x630/2020/03/02/ac5769d7-5d1b-412d-8643-04040901b4da/apple-iphone-11-0011.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Fired Apple worker reportedly files complaint with NLRB over alleged retaliation - CNET
+        </p>
+        <p>
+          The employee was part of a movement called #AppleToo, which aimed to change the iPhone maker's culture.
+        </p>
+        <p>
+           Author: 
+          Carrie Mihalcik
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Sarah Lord"
+        height="200"
+        src="https://www.cnet.com/a/img/mIiN3c57UeaOy78FSAXG09579j8=/1200x630/2021/10/13/b5e48bbd-f3e9-41d2-bbb0-baf286e57790/roku-streaming-stick-4k-and-4k-plus-cnet-review-2021-003.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Black Friday Roku and Fire TV deals start early: Get the best streamers for $30 or less - CNET
+        </p>
+        <p>
+          The Roku Express 4K Plus and Roku Streaming Stick 4K see near or at all-time lows. The Amazon Fire TV Stick 4K is on sale, too.
+        </p>
+        <p>
+           Author: 
+          Sarah Lord
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Joan E. Solsman"
+        height="200"
+        src="https://www.cnet.com/a/img/Wh-WJNsowAMjYVXwvCQVP7SWKlk=/1200x630/2021/02/24/764ac942-7eee-42ea-82a7-eaecd2b966e7/018-paramount-plus-streaming-service-logo.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Paramount Plus: What to know to stream UEFA here (but not Yellowstone) - CNET
+        </p>
+        <p>
+          Paramount Plus streams shows, movies, originals and sports like UEFA matches this week -- but it doesn't have Yellowstone. Here's everything to know.
+        </p>
+        <p>
+           Author: 
+          Joan E. Solsman
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Scott Stein"
+        height="200"
+        src="https://www.cnet.com/a/img/F5WB1s8eDFmvCzS03AA7F9NCV7A=/1200x630/2021/11/01/21d4408d-74d8-4313-8f68-8d19afd4a795/mesh-for-teams-microsoft-vr-ar-1.jpg"
+        width="200"
+      />
+      <div>
+        <p>
+          Microsoft Teams is getting avatars, launching in VR and AR next year - CNET
+        </p>
+        <p>
+          Teams is getting metaversified, hopes to be the Zoom for VR.
+        </p>
+        <p>
+           Author: 
+          Scott Stein
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Jim Giaquinto"
+        height="200"
+        src="https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png"
+        width="200"
+      />
+      <div>
+        <p>
+          New Highs to Kick Off a New Month
+        </p>
+        <p>
+          New Highs to Kick Off a New Month
+        </p>
+        <p>
+           Author: 
+          Jim Giaquinto
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Zacks Equity Research"
+        height="200"
+        src="https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-394788.jpeg"
+        width="200"
+      />
+      <div>
+        <p>
+          Should Invesco S&P 500 Revenue ETF (RWL) Be on Your Investing Radar?
+        </p>
+        <p>
+          Style Box ETF report for RWL
+        </p>
+        <p>
+           Author: 
+          Zacks Equity Research
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img
+        alt="Manisha Chatterjee"
+        height="200"
+        src="https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-394807.jpeg"
+        width="200"
+      />
+      <div>
+        <p>
+          Should You Buy the Dip in Twitter?
+        </p>
+        <p>
+          Twitter’s (TWTR) shares have plunged in price over the past few months despite the company’s introduction of new features, such as its Super Follows. So, can the company overcome the...
+        </p>
+        <p>
+           Author: 
+          Manisha Chatterjee
+        </p>
+      </div>
+    </figure>
+  </li>
+</ul>
+`;
