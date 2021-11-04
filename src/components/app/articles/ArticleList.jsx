@@ -4,7 +4,7 @@ import Article from './Article';
 
 
 export default function ArticleList( { articles }){
-    const articleList = articles.map(({title, author, description,urlToImage})=> (
+    const articleList = articles.map(({title, author, description,urlToImage}) => (
         <li key={`${title}-${author}`}> 
             <Article
                 title={title}
@@ -15,9 +15,7 @@ export default function ArticleList( { articles }){
         </li>
     ));
     return (
-        <div>
-            <ul aria-label='articles'>{articleList}</ul>
-        </div>
+         <ul aria-label="articles">{articleList}</ul>
     )
 
 }
@@ -26,7 +24,7 @@ ArticleList.propTypes = {
     articles: PropTypes.arrayOf(
         PropTypes.shape({
             title: PropTypes.string.isRequired,
-            author: PropTypes.string.isRequired,
+            author: PropTypes.string,
             description: PropTypes.string.isRequired,
             urlToImage: PropTypes.string.isRequired,
         })

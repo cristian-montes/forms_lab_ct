@@ -16,7 +16,7 @@ export default function Article({title, author, description, image}){
 
 Article.prototype = {
     title: PropTypes.string.isRequired,
-    author: PropTypes.string.isRequired,
+    author: PropTypes.string,
     description: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
 }
