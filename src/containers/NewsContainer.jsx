@@ -12,11 +12,11 @@ export default class NewsContainer extends Component {
 
     async componentDidMount(){
         const articles = await fetchArticles();
-        this.setState({articles: articles})
+        this.setState({articles})
     }
 
     render(){
-
-        return <ArticleList/>
+        const{loading, articles} = this.state;
+        return <ArticleList articles={ articles }/>
     }
 }
