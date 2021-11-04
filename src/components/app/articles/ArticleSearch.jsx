@@ -13,7 +13,6 @@ export default function ArticleSearch({ newsName,onHandleNewsNameChange, onHandl
                 onChange={onHandleNewsNameChange}
             />
             <button aria-label="get-news"> Get Your Fave News</button>
-            
         </form>
     )
 }
