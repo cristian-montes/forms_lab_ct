@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article test should render a single article for the list 1`] = `
+<DocumentFragment>
+  <figure>
+    <img
+      alt="Taquito"
+      height="200"
+      width="200"
+    />
+    <div>
+      <p>
+        The Taco King
+      </p>
+      <p>
+        I make any type of tacos you want
+      </p>
+      <p>
+         Author: Taquito
+      </p>
+    </div>
+  </figure>
+</DocumentFragment>
+`;

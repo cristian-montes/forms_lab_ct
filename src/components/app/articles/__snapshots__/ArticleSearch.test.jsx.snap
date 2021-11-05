@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search query test taking in a query and change on submit 1`] = `
+<DocumentFragment>
+  <form>
+    <p>
+       User the search below to look for your Fave News
+    </p>
+    <label
+      for="newsName"
+    >
+      News Name
+    </label>
+    <input
+      id="newsName"
+      name="newsName"
+      type="text"
+      value=""
+    />
+    <button
+      aria-label="get-news"
+    >
+       Get Your Fave News
+    </button>
+  </form>
+</DocumentFragment>
+`;
